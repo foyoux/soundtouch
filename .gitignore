@@ -53,3 +53,4 @@ build*
 CMakeFiles
 CMakeCache.txt
 *.cmake
+/cmake-*
